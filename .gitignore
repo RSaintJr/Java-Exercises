@@ -24,7 +24,6 @@ hs_err_pid*
 
 # other things
 *.xml
-*.class
 /shelf
 /idea
 /bin
