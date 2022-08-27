@@ -27,7 +27,7 @@ hs_err_pid*
 *.iml
 shelf/
 .idea/
-*/bin/
+bin/
 out/
 target/
 packages/
