@@ -25,14 +25,14 @@ hs_err_pid*
 # other things
 *.xml
 *.iml
-/shelf/
-/.idea/
-/bin/
-/out/
-/target/
-/packages/
-/node_modules/
-/workspace.xml/
-/.metadata/
+shelf/
+.idea/
+bin/
+out/
+target/
+packages/
+node_modules/
+/workspace.xml
+.metadata/
 *.classpath
 *.project
