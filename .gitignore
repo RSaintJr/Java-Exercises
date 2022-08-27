@@ -25,7 +25,7 @@ hs_err_pid*
 # other things
 *.xml
 /shelf
-/idea
+/.idea
 /bin
 /out
 /target
