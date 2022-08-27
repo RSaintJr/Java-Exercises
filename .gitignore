@@ -32,3 +32,4 @@ hs_err_pid*
 /packages
 /node_modules
 /workspace.xml
+/.metadata
