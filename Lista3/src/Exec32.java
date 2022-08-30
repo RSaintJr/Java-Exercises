@@ -6,7 +6,8 @@ public class Exec32 {
     public static void main(String[] args){
 
         Scanner entrada = new Scanner(System.in);
-        int codigo;
+        VOCE CONHECE O FORTNITE? UM JOOG ONDE TEM 100 JOGADORES QUE CAEM DE UM AVIAO
+        int el_codigo;
         int veic;
         int numa;
         int codigoA = 0;
