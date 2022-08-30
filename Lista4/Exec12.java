@@ -1,3 +1,5 @@
+// incompleto
+
 import java.util.Scanner;
 
 public class Exec12 {
