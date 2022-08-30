@@ -1,3 +1,5 @@
+//incompleto
+
 import java.util.Random;
 import java.util.Scanner;
 // 1,5,9,15,21
