@@ -67,7 +67,7 @@ public class Exec36 {
         System.out.println("Total de votos Nulos: " + k5);
         System.out.println("Total de votos em branco: " + k6);
         System.out.println("Percentual de votos nulos sobre o total de votos: " + "%" + ((k + k2 + k3 + k4 + k5 + k6) * k5) / 100);
-        System.out.println("Percentual de votos nulos sobre o total de votos: " + "%" + ((k + k2 + k3 + k4 + k5 + k6) * k6) / 100);
+        System.out.println("Percentual de votos em branco sobre o total de votos: " + "%" + ((k + k2 + k3 + k4 + k5 + k6) * k6) / 100);
 
         entrada.close();
     }
