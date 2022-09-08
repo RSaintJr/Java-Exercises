@@ -1,3 +1,5 @@
+// não funciona como planejado
+
 package funcao13;
 
 public class FuncaoEx13 {
