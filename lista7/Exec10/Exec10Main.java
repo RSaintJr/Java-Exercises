@@ -11,7 +11,7 @@ public class Exec10Main {
 
         float litros, dinheiro;
 
-        System.out.print("Entre com a quantidade de litros que quer abastecer: ");
+        System.out.print("Digite a quantidade de litros que quer abastecer: ");
         litros = input.nextFloat();
         System.out.println(bomba.abastercerPorLitro(litros));
 
