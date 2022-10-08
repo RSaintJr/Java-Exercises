@@ -42,9 +42,6 @@ public class Exec10 {
         return false;
     }
 
-    /**
-     * Getters and Setters
-     */
     public int getTipoCombustivel() {
         return tipoCombustivel;
     }
