@@ -1,4 +1,4 @@
-// imcompleto
+// incompleto
 
 package com.curvello.listas;
 
