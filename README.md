@@ -1,4 +1,1 @@
-I'm doing these exercises to practice
-
-there are IF ELSE, DO WHILE, WHILE, FOR exercises and Array exercises.
-Now has object-oriented programming
+I did these exercises to practice. There are everything from basic exercises to exercises using Java object orientation.
